@@ -4914,15 +4914,15 @@ hero-btn {
 }
 
 /* line 29, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
-.footer-area .footer-top .single-footer-caption .footer-number h4 {
+.footer-area .footer-top .single-footer-caption .footer-number h6 {
   color: #ff0000;
-  font-size: 30px;
-  font-weight: 500;
+  font-size: 20px;
+  font-weight: 400;
   text-transform: capitalize;
 }
 
 /* line 34, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
-.footer-area .footer-top .single-footer-caption .footer-number h4 span {
+.footer-area .footer-top .single-footer-caption .footer-number h6 span {
   color: #fff;
 }
 
